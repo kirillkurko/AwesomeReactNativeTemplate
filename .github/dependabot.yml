@@ -1,0 +1,6 @@
+version: 2
+updates:
+  - package-ecosystem: "nvm"
+    directory: "/"
+    schedule:
+      interval: "weekly"
